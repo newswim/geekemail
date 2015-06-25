@@ -1,3 +1,5 @@
+Note: This repository is an adaptation of Lee Munroe's brilliant [grunt-email-workflow](https://github.com/leemunroe/grunt-email-workflow)
+
 ### CDN and working with image assets
 
 If your email contains images you'll want to serve them from a CDN. This Gruntfile has support for Rackspace Cloud Files ([pricing](http://www.rackspace.com/cloud/files/pricing/)).
