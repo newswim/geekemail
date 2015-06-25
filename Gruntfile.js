@@ -7,7 +7,7 @@ module.exports = function(grunt) {
 
         // secrets.json is ignored in git because it contains sensitive data
         // See the README for configuration settings
-        secrets: grunt.file.readJSON('secrets.json'),
+    //    secrets: grunt.file.readJSON('secrets.json'),
 
 
         // Re-usable filesystem paths (these shouldn't be modified)
